@@ -5,7 +5,7 @@ The central repository for the Chameleon front_end_project (react.js) and back_e
 To get started, clone the repo. Then run `npm ci` from the root.
 
 The repo is organized as a monorepo, . and follows this structure:
-...
+...s
 ```
 ├── back_end_project             # All API to be created here
 │   ├── back_end_project
