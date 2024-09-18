@@ -1,0 +1,11 @@
+name: chameleon-cloudrun
+
+on:
+  push:
+    branches:
+      - master
+      - main
+
+env:
+  PROJECT_ID: ${{secrets:CLOUD_RUN_PROJECT_NAME}}
+  REGION: 
